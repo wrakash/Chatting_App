@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "267601086137",
+    "firebase_url": "https://gradspace-5c8eb.firebaseio.com",
+    "project_id": "gradspace-5c8eb",
+    "storage_bucket": "gradspace-5c8eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267601086137:android:79eb39fb9d5ee3973c3d68",
+        "android_client_info": {
+          "package_name": "com.akash.gradespace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267601086137-7siira6613s2j6l8temvsasnv2tol38r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFPF3tGx5LDYzYDwGLiNhplFwMVI7avPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267601086137-7siira6613s2j6l8temvsasnv2tol38r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
